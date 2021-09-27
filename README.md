@@ -21,11 +21,11 @@ Processing the CSVs is as simple as running `anytone-config-builder.pl` on them 
 
 **Example**:
 
-    ./anytone-config-builder.pl \ 
-    --analog-csv=csv/input/analog.csv \
-    --digital-others-csv=csv/input/digital-others.csv \ 
-    --digital-repeaters-csv=csv/input/digital-repeaters.csv \
-    --talkgroups-csv=csv/input/talkgroups.csv \
-    --output-directory=csv/output
+    anytone-config-builder.pl \ 
+    --analog-csv=input/analog.csv \
+    --digital-others-csv=input/digital-others.csv \ 
+    --digital-repeaters-csv=input/digital-repeaters.csv \
+    --talkgroups-csv=input/talkgroups.csv \
+    --output-directory=output
 
 
