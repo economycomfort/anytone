@@ -1,0 +1,94 @@
+DMARC WW,1
+Local 2,2
+DMARC NA,3
+Local 8,8
+Local 9,9
+DMARC WW English,13
+DMR+ USA,133
+USA 1776,1776
+BM WW,91
+BM Europe,92
+BM NA,93
+BM Radio Test,98
+TAC 1,8951
+TAC 310,310
+TAC 311,311
+TAC 312,312
+TAC 313,313
+TAC 314,314
+TAC 315,315
+TAC 316,316
+TAC 317,317
+TAC 318,318
+TAC 319,319
+Saudi Arabia,420
+UAE,430
+Hong Kong,454
+China,460
+Russia Global,2501
+BM USA Bridge,3100
+Alabama,3101
+Florida,3112
+Georgia,3113
+North Carolina,3137
+South Carolina,3145
+Tennessee,3147
+Washington (WA),3153
+Oregon,3141
+South East,3174
+PNW 1,3178
+PNW 2,103187
+PNW Regional,31771
+PNW West,31530
+Atlanta Metro,31131
+South GA,31132
+SETN NWGA (TAG),31133
+North GA,31134
+Central GA,31135
+Southwest GA,31136
+GA KingsLand,31137
+Gulf Coast,31011
+FL Gulf Coast,31670
+First Coast,31121
+Outer Banks,31377
+King County (WA),333153
+BayNet (WA),31075
+Puget Sound,31532
+Seattle 1,803153
+Seattle 2,813153
+Las Vegas,31327
+GA SKYWARN,31139
+GA ARES,31130
+FL ARES,31127
+FL NE ARES,31128
+WA ARES,31538
+WA ARES TAC,31539
+US Hurricane Net,3199
+WW Maritime,9101
+WW Aviation,9102
+TGIF Funhouse,122
+Kings of Digital,31620
+RVing Hams,31652
+Venture Overland,31655
+America-Link,31656
+Truck-N-Travel,31663
+DMR of Anarchy,31666
+Pi-Star Chat,31672
+Ham Shack,31688
+Russian Muricans,31697
+Geeks in Jeeps,31773
+Weather Watching,31774
+Handi-Hams,31990
+HamFurs,98002
+Reddit,98003
+LGBTQ,98012
+COMM1,3777215
+COMM2,3777216
+Disconnect,4000
+Parrot,9998
+Simplex 99,99
+Simplex APRS,31099
+Audio Test,9999
+GPS Report,310999
+Pi-Star Reboot,9999997
+Pi-Star Shutdown,9999996
