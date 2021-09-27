@@ -20,6 +20,6 @@ The data within the CSVs are tailored for my own personal usage habits and geogr
 Processing the CSVs is as simple as running `anytone-config-builder.pl` on them once you have them the way you want them.  See the [anytone-config-builder](https://github.com/K7ABD/anytone-config-builder) for more details.
 
 **Example**:
-  ./anytone-config-builder.pl --analog-csv=csv/input/analog.csv --digital-others-csv=csv/input/digital-others.csv --digital-repeaters-csv=csv/input/digital-repeaters.csv --talkgroups-csv=csv/input/talkgroups.csv --output-directory=csv/output
+    ./anytone-config-builder.pl --analog-csv=csv/input/analog.csv --digital-others-csv=csv/input/digital-others.csv --digital-repeaters-csv=csv/input/digital-repeaters.csv --talkgroups-csv=csv/input/talkgroups.csv --output-directory=csv/output
 
 
